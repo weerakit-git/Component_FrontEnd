@@ -6,10 +6,11 @@
 
 <script setup>
 import { ref, onMounted ,onUnmounted } from 'vue'
-import gsap from 'gsap'
-import SplitText from 'gsap/SplitText'
+import { gsap } from "gsap";
+    
+import { SplitText } from "gsap/SplitText";
 
-gsap.registerPlugin(SplitText)
+gsap.registerPlugin(SplitText);
 
 const markRef = ref(null)
 let split
