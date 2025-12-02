@@ -1,4 +1,6 @@
 <template>
     <Content />
-<GsapSpliteTextMarkText/>
+    <Test/>
+    <Test1/>
+<!-- <GsapSpliteTextMarkText/> -->
 </template>
