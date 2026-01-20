@@ -1,7 +1,5 @@
 <template>
     <div class="container mx-auto p-2">
-        <!-- page code -->
-        <!-- <GsapSpliteTextMarkText /> -->
-         <GsapSpliteTextMarkText />
+       <SlideSliderv1/>
     </div>
 </template>
