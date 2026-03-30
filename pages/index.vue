@@ -1,6 +1,6 @@
+<script setup>
+navigateTo('/admin')
+</script>
 <template>
-    <Content />
-    <Test/>
-    <Test1/>
-<!-- <GsapSpliteTextMarkText/> -->
+    <div>Home</div>
 </template>
